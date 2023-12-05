@@ -1,6 +1,6 @@
 # ESGNet
 This project provides the code and results for 'Edge and Skeleton Guidance Network for Salient
-Object Detection in Optical Remote Sensing Images'（DOI：10.1109/TCSVT.2023.3275252）.
+Object Detection in Optical Remote Sensing Images'（[DOI：10.1109/TCSVT.2023.3275252](https://ieeexplore.ieee.org/document/10122926)）.
 # Saliency maps
    We provide saliency maps of our ESGNet (https://pan.baidu.com/s/1sbE3opb-vJ_QCVccbeQhNw) (code:hust ) on ORSSD and EORSSD datasets.
    
